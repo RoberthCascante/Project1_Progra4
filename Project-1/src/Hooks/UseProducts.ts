@@ -28,5 +28,6 @@ console.log("Error");
   return {
 data, error, loading
   }
+  
 }
 export default UseProducts
